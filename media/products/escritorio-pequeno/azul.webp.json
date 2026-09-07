@@ -1,0 +1,4 @@
+{
+  "prompt": "Reproduce the reference image exactly: identical furniture, identical camera angle, identical steel frame, fixings, lighting, shadow and seamless light warm-grey backdrop. Change ONLY the colour of the wood/laminate surfaces (tops, seats, backrests, panels): they are now a medium royal-blue high-pressure laminate, smooth and matte, keeping the same thin dark edge band. Nothing else changes. Model: Higgsfield nano_banana_2, 2k, 2026-09-06/07. Reference: the corresponding view of the company's Catálogo 2026 (Downloads/Catalogo_2026_Images/02_Individual_Product_Views_4x), uploaded as image_references; colour variants reference the generated base packshot by job id.",
+  "createdAt": "2026-09-07T00:57:41.916Z"
+}
