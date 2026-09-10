@@ -1,2 +1,86 @@
-User-agent: *
-Disallow: /
+User-Agent: *
+Allow: /
+Disallow: /por-confirmar/
+
+User-Agent: GPTBot
+Allow: /
+Disallow: /por-confirmar/
+
+User-Agent: OAI-SearchBot
+Allow: /
+Disallow: /por-confirmar/
+
+User-Agent: ChatGPT-User
+Allow: /
+Disallow: /por-confirmar/
+
+User-Agent: ClaudeBot
+Allow: /
+Disallow: /por-confirmar/
+
+User-Agent: Claude-User
+Allow: /
+Disallow: /por-confirmar/
+
+User-Agent: Claude-SearchBot
+Allow: /
+Disallow: /por-confirmar/
+
+User-Agent: anthropic-ai
+Allow: /
+Disallow: /por-confirmar/
+
+User-Agent: PerplexityBot
+Allow: /
+Disallow: /por-confirmar/
+
+User-Agent: Perplexity-User
+Allow: /
+Disallow: /por-confirmar/
+
+User-Agent: Google-Extended
+Allow: /
+Disallow: /por-confirmar/
+
+User-Agent: Applebot
+Allow: /
+Disallow: /por-confirmar/
+
+User-Agent: Applebot-Extended
+Allow: /
+Disallow: /por-confirmar/
+
+User-Agent: CCBot
+Allow: /
+Disallow: /por-confirmar/
+
+User-Agent: Bingbot
+Allow: /
+Disallow: /por-confirmar/
+
+User-Agent: meta-externalagent
+Allow: /
+Disallow: /por-confirmar/
+
+User-Agent: Amazonbot
+Allow: /
+Disallow: /por-confirmar/
+
+User-Agent: DuckAssistBot
+Allow: /
+Disallow: /por-confirmar/
+
+User-Agent: YouBot
+Allow: /
+Disallow: /por-confirmar/
+
+User-Agent: cohere-ai
+Allow: /
+Disallow: /por-confirmar/
+
+User-Agent: MistralAI-User
+Allow: /
+Disallow: /por-confirmar/
+
+Host: https://edumuebles.do
+Sitemap: https://edumuebles.do/sitemap.xml

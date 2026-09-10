@@ -1,11 +1,16 @@
-# Edumuebles Industrial — sitio de demostración
+# Edumuebles Industrial — edumuebles.do
 
-Exportación estática del sitio en `../web` (Next.js). No editar a mano: se
-regenera con `web/scripts/deploy-pages.sh`.
+Exportación estática del sitio, servida por GitHub Pages en
+**https://edumuebles.do**. No editar a mano: se regenera desde el código
+fuente (repo `edumuebles`) con
 
-**Esto es una pieza de demostración, no el sitio oficial de la empresa.** Los
-48 modelos provienen del Catálogo 2026 de Edumuebles; las fotografías de
-producto son imágenes generadas a partir de ese catálogo y los datos con la
-etiqueta «Por confirmar» son provisionales.
+    PAGES_DOMAIN=edumuebles.do bash scripts/deploy-pages.sh
 
-Indexación desactivada (`noindex` + robots.txt).
+Los 48 modelos provienen del Catálogo 2026 de la empresa. Las fotografías de
+producto son renders generados a partir de las fotos de ese catálogo, porque
+las del PDF impreso son demasiado pequeñas para web; las escenas de aula son
+ilustrativas. Todo dato que la empresa no confirmó se retiró del sitio en vez
+de publicarse: lo que falta está en `/por-confirmar/`, fuera del índice.
+
+Indexación activa. `app/robots.ts` y `app/sitemap.ts` generan robots.txt y
+sitemap.xml; la hoja de trabajo interna `/por-confirmar/` queda excluida.
