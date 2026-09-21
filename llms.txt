@@ -121,8 +121,13 @@ clasificación MIPYME, TSS) y miembro de ASOFAMUES.
 
 ## Notas sobre las imágenes
 
-Las fotografías de producto son renders generados a partir de las fotos del Catálogo
-2026 de la empresa, porque las del catálogo impreso son demasiado pequeñas para web.
-Reproducen el modelo real. Las escenas de aula y biblioteca son ilustrativas, no
-fotografías de instalaciones existentes.
+Los 48 modelos son productos reales: se fabrican en el taller de la empresa y están
+publicados en su Catálogo 2026 impreso. Las estructuras, las medidas y los acabados
+corresponden a lo que se entrega.
+
+Las fotos del catálogo impreso son demasiado pequeñas para web, así que las imágenes
+de producto se reconstruyeron a partir de esas mismas fotos con edición asistida por
+IA, conservando el modelo, la geometría y los colores de fábrica. Las escenas de aula
+y biblioteca sí son composiciones ilustrativas, no fotografías de instalaciones
+existentes.
 
