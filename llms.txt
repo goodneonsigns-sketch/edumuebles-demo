@@ -113,6 +113,46 @@ clasificación MIPYME, Registro Industrial de PROINDUSTRIA, TSS) y miembro de AS
 - [TAR-02 Tarima](https://edumuebles.do/productos/tarima/): Tarima modular en forma de T para actos escolares, en madera forrada.
 - [TAR-03 Tarima 4 × 4 m](https://edumuebles.do/productos/tarima-4x4m/): Tarima cuadrada de 4 × 4 metros con escalón de acceso, para eventos y graduaciones.
 
+## Guías
+
+Guías de planificación: las decisiones que se toman antes de pedir una cotización.
+
+### Ebanistería y tapicería: lo que se fabrica fuera del catálogo
+
+Además de los 48 modelos del Catálogo 2026, Edumuebles Industrial tiene área de ebanistería y tapicería propia. Eso quiere decir que un plantel puede pedir una pieza que no está en el catálogo —un mueble de recepción, un archivo, una repisa con una medida específica— y que puede mandar a retapizar lo que ya tiene en vez de reemplazarlo. La ebanistería y la tapicería ocurren en el mismo taller que la soldadura y la pintura, así que una pieza mixta de madera y metal no se subcontrata.
+
+Página: https://edumuebles.do/guias/ebanisteria-y-tapiceria-a-la-medida/
+
+### Cómo equipar un aula de nivel inicial
+
+Un aula de nivel inicial se arma eligiendo primero la forma de la mesa, porque la forma decide cuántos niños se sientan y dónde queda la maestra. El Catálogo 2026 tiene seis formas: redonda, rectangular para seis, cuadrada para cuatro, media luna para cuatro con la maestra al frente, herradura para cinco con la maestra en el centro, y triangular individual que se combina en hexágonos. Cada una se entrega en juego con sus sillas, y las sillas van en dos alturas: Kinder tradicional de 60 cm con asiento a 25 cm, y Kinder moderna de 63 cm con asiento a 32 cm.
+
+Página: https://edumuebles.do/guias/como-equipar-un-aula-de-nivel-inicial/
+
+### Mesas agrupables: las cuatro formas y qué arma cada una
+
+Una mesa agrupable sirve para dos cosas a la vez: trabajar sola y formar una figura mayor cuando se juntan. El Catálogo 2026 tiene cuatro. La trapecio W: dos forman un hexágono y en fila forman una W, en juego de ocho mesas con dieciséis sillas. La tipo manzana: se agrupa en flor de seis o se alinea en fila, en juego de seis mesas con seis sillas. La triangular agrupable: forma un anillo hexagonal o una banda, en juego de ocho mesas con ocho sillas. Y la circular: seis mesas en cuña que cierran un círculo con el centro abierto, o se abren en fila ondulada.
+
+Página: https://edumuebles.do/guias/mesas-agrupables-formas-y-combinaciones/
+
+### Cómo elegir la pizarra del aula
+
+La pizarra se elige por tres decisiones, en este orden: blanca de marcador o verde de tiza; de pared o de pie con ruedas; y el marco. El Catálogo 2026 tiene cinco: blanca de pie de doble cara sobre ruedas, blanca de pared con marco de aluminio, blanca de pared con marco de madera, verde para tiza con marco de madera y bandeja, y verde sin bordes con bandeja. Las de pared se fabrican en el tamaño que necesite el aula, no en medidas fijas.
+
+Página: https://edumuebles.do/guias/como-elegir-la-pizarra-del-aula/
+
+### Checklist para una licitación de mobiliario escolar
+
+Antes de adjudicar un lote de mobiliario escolar conviene revisar cuatro cosas: que el proveedor esté habilitado en el portal de la DGCP, que la oferta especifique material y medidas y no sólo cantidad y precio, que el plazo comprometido entre dentro del calendario escolar, y que exista forma de verificar la fabricación. Un proveedor que fabrica puede recibir inspección en su taller; uno que revende, no.
+
+Página: https://edumuebles.do/guias/checklist-licitacion-mobiliario-escolar/
+
+### Mantenimiento del mobiliario escolar: qué alarga la vida de un lote
+
+Un lote de mobiliario escolar suele fallar por donde se une, no por donde se ve. En muebles de estructura de tubo de acero con tapa o asiento de madera revestida, lo que alarga la vida es revisar las uniones una vez por período, limpiar el laminado sin abrasivos, y atender los golpes en la pintura antes de que la humedad entre por ahí. Casi todo lo que se daña en el uso normal —tapas, asientos, espaldares, tapizado— se repone sin reemplazar la unidad completa.
+
+Página: https://edumuebles.do/guias/mantenimiento-del-mobiliario-escolar/
+
 ## Preguntas frecuentes
 
 Respuestas completas a lo que preguntan los comités de compra y las direcciones de
@@ -157,6 +197,7 @@ También responde: ¿Edumuebles fabrica o importa el mobiliario que vende? · ¿
 
 - [Catálogo completo](https://edumuebles.do/catalogo/)
 - [Preguntas frecuentes](https://edumuebles.do/preguntas/)
+- [Guías](https://edumuebles.do/guias/)
 - [Solicitar cotización](https://edumuebles.do/cotizar/)
 - [La empresa y el taller](https://edumuebles.do/empresa/)
 - [Reparación y tapicería](https://edumuebles.do/reparacion/)
